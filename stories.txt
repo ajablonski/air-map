@@ -1,0 +1,8 @@
+1,Create D3 map of US with line from Chicago to Dallas
+2,Show all routes through Illinois served by American Airlines MD-80 series aircraft in November 2016
+3,Make city connections dynamic
+4,Programatically generate data for (2)
+5,Serve data from (4)
+6.Weight line darkness based on number of flights
+
+nextstory 7

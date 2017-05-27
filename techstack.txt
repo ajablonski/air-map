@@ -1,0 +1,14 @@
+F/E
+--
+React
+D3.js
+Typescript / flow?
+
+B/E
+--
+Scala / Clojure?
+
+DB
+--
+Postgres
+
